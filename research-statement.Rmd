@@ -89,10 +89,10 @@ Back in 2011, while working as the coordinator of the animal welfare department 
 ![](docs/Files/Zoo Grant/1.jpeg){width=50%}
 
 
-# Scratch notes
-<!--Add a research statement, check specifications in "applications.Rmd"-->
-But why is this important? and how is this related with my research goals?
-I don't blame them if they use that money to buy drugs instead of food. Imagine the horror the live everyday. A very suitable coping mechanism if you ask me. I'm not saying I approved this, but we can't judge people for something they couldn't even have the chance to choose. This and believe me, is an every-day reality in this country.  
+<!-- # Scratch notes -->
+<!-- Add a research statement, check specifications in "applications.Rmd"--> 
+<!-- But why is this important? and how is this related with my research goals? -->
+<!-- I don't blame them if they use that money to buy drugs instead of food. Imagine the horror the live everyday. A very suitable coping mechanism if you ask me. I'm not saying I approved this, but we can't judge people for something they couldn't even have the chance to choose. This and believe me, is an every-day reality in this country.   -->
 
 <!-- #Informal research statement  -->
 <!-- <!--Insert research statement --> -->
