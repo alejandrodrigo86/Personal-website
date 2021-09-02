@@ -97,4 +97,4 @@ After graduating from veterinary sciences, I coordinated the animal welfare depa
 During this time, I was also head of the animal ambassador program. This program was endorsed by The Education Department for Conservation, and it included more than 18 different types of animal species. 
 
 
-http://lcsia.com/GFT.html
+<!-- http://lcsia.com/GFT.html -->
