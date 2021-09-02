@@ -1,0 +1,31 @@
+title: "ARod personal website"
+navbar:
+  left:
+    - text: "Welcome"
+      href: index.html
+    - text: "Research Statement" 
+      href: research-statement.html
+    - text: "Publications"
+      href: publications.html
+    - text: "Presentations"
+      href: presentations.html
+    - text: "Projects"
+      href: projects.html 
+    - text: "Courses"
+      href: courses.html 
+    - text: "Resources"
+      href: resources.html 
+  right: 
+    - icon: fa-envelope fa-lg
+      href: mailto:<alejandro.rgutierrez@alumnos.udg.mx>
+    - icon: fa fa-github fa-lg
+      href: https://github.com/alejandrodrigo86/
+    - icon: fa fa-twitter fa-lg
+      href: https://twitter.com/alejandrodrigo
+    - icon: fa fa-instagram fa-lg
+      href: https://www.instagram.com/alejandrodrigo86/
+
+    
+output: 
+  rmdformats::readthedown:
+    use_bookdown: true
