@@ -58,25 +58,25 @@ During my academic development I have been awarded with several research grants 
 The first mayor grant was designated to perform my masters studies (call 290840, January 2014 to January 2016) at the CEIC under the co-direction of [Dr. Carlos Torres Ceja](https://scholar.google.es/citations?hl=es&user=StKMQD0AAAAJ&view_op=list_works&sortby=pubdate) and [Dr. Carlos Javier Flores Aguirre](https://scholar.google.es/citations?user=si0XbfIAAAAJ&hl=es&oi=ao).
 
 ```{r, echo=FALSE, out.width='100%', out.height='1000px' }
-knitr::include_graphics("Files/CONACyT Grants/Masters.pdf")
+knitr::include_graphics("docs/Files/CONACyT Grants/Masters.pdf")
 ```
 
 During this time I receive an additional award (Call 290936) to carry out an International Research Internship at the [Laboratory of Animal Behavior](http://www.konradlorenz.edu.co/es/estudiantes/facultades/facultad-de-psicologia/laboratorios-y-recursos-de-apoyo/953-laboratorio-de-conducta-animal.html) under the supervision of [Dr. Javier Leonardo Rico Rodriguez](https://scholar.google.es/citations?user=qQXp6Z0AAAAJ&hl=es) at the [Konrad Lorenz University Foundation](http://www.konradlorenz.edu.co/es/) (English for Fundación Universitaria Konrad Lorenz) between February and March 2015.
 
 ```{r, echo=FALSE, out.width='100%', out.height='1000px' }
-knitr::include_graphics("Files/CONACyT Grants/Mix_Masters.pdf")
+knitr::include_graphics("docs/Files/CONACyT Grants/Mix_Masters.pdf")
 ```
 
 The second mayor grant was given to perform my Ph.D. studies (call 291236, September 2017 to September 2020) at CEIC. 
 
 ```{r, echo=FALSE, out.width='100%', out.height='1000px' }
-knitr::include_graphics("Files/CONACyT Grants/PhD.pdf")
+knitr::include_graphics("docs/Files/CONACyT Grants/PhD.pdf")
 ```
 
 Once more, I earn an additional award (Call 291276) to carry out an International Research Internship at the [Comparative Cognition Laboratory](http://home.cc.umanitoba.ca/~kellyd/index.html) under the supervision of [Dr. Debbie M. Kelly](https://scholar.google.com.mx/citations?user=uDyW650AAAAJ&hl=en&oi=sra) at the [University of Manitoba](https://umanitoba.ca//) between May and November 2019.
 
 ```{r, echo=FALSE, out.width='100%', out.height='1000px' }
-knitr::include_graphics("Files/CONACyT Grants/Mix_PhD.pdf")
+knitr::include_graphics("docs/Files/CONACyT Grants/Mix_PhD.pdf")
 ```
 
 Back in 2011, while working as the coordinator of the animal welfare department at Africam Safari zoo, I won the Jacksonville Zoo & Gardens New World Conservation Training Award in Collaboration with the Zoo Conservation Outreach Group to attend the Principles of Program Animal Management course of the Association of Zoos and Aquariums (November 14 to 19, 2011). 
