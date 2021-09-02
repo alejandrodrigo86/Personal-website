@@ -4,7 +4,7 @@ knit: (function(input_file, encoding) {
   out_dir <- 'docs';
   rmarkdown::render(input_file,
   encoding=encoding,
-  output_file=file.path(dirname(input_file), out_dir, 'index.html'))})
+  output_file=file.path(dirname(input_file), out_dir, 'research-statement.html'))})
 ---
 <!-- Improve research statement, remove political statements, see text at the end of the document -->
 
@@ -86,7 +86,7 @@ knitr::include_graphics("docs/Files/CONACyT Grants/Mix_PhD.pdf")
 
 Back in 2011, while working as the coordinator of the animal welfare department at Africam Safari zoo, I won the Jacksonville Zoo & Gardens New World Conservation Training Award in Collaboration with the Zoo Conservation Outreach Group to attend the Principles of Program Animal Management course of the Association of Zoos and Aquariums (November 14 to 19, 2011). 
 
-![](Files/Zoo Grant/1.jpeg){width=50%}
+![](docs/Files/Zoo Grant/1.jpeg){width=50%}
 
 
 # Scratch notes
