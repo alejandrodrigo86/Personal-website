@@ -1,6 +1,12 @@
 ---
 title: "Welcome"
+knit: (function(input_file, encoding) {
+  out_dir <- 'docs';
+  rmarkdown::render(input_file,
+  encoding=encoding,
+  output_file=file.path(dirname(input_file), out_dir, 'index.html'))})
 ---
+
 
 <!-- This page should contain a brief version of your CCV, include only the important stuff, and add links to every specific area. -->
 
@@ -8,7 +14,7 @@ Before anything, **THANK YOU!** Somehow, you are here, and I really appreciate t
 
 My name is **Alejandro Rodrigo**. I'm passionate about animal life and all the elements that surround it. If I had to pick one word to describe myself, I would always choose **CURIOSITY**.  
 
-![](Images\Ale\Alejandro_Africam.jpg)
+<!-- ![](Images\Ale\Alejandro_Africam.jpg) -->
 Throughout this website, you will be able to know me better. Most of my work, hobbies, and passions are somewhere here. But to make things easier, the lines below show a summary of my academic career. 
 
 ```{r, echo=FALSE, message=FALSE, warning=FALSE, include= FALSE}
