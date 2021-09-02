@@ -94,56 +94,56 @@ Back in 2011, while working as the coordinator of the animal welfare department 
 But why is this important? and how is this related with my research goals?
 I don't blame them if they use that money to buy drugs instead of food. Imagine the horror the live everyday. A very suitable coping mechanism if you ask me. I'm not saying I approved this, but we can't judge people for something they couldn't even have the chance to choose. This and believe me, is an every-day reality in this country.  
 
-#Informal research statement 
-<!--Insert research statement -->
-To understand my academic goals, personal interests and research motives, is crucial to shared with you a little part of my history and my background. 
+<!-- #Informal research statement  -->
+<!-- <!--Insert research statement --> -->
+<!-- To understand my academic goals, personal interests and research motives, is crucial to shared with you a little part of my history and my background.  -->
 
-This is not a political statement, or a story of poverty and economics. It is simply an integrated point of view that form my opinions as researcher. A history that also set-up my personality and defined who am I. This is my research statement.
+<!-- This is not a political statement, or a story of poverty and economics. It is simply an integrated point of view that form my opinions as researcher. A history that also set-up my personality and defined who am I. This is my research statement. -->
 
-I born and raised in Mexico City. A city recognized as the [most populous territory in the Western Hemisphere](https://worldpopulationreview.com/world-cities/mexico-city-population), with a calculated population for 2021 of almost 22 million people. 
-The most impressive (and concerning fact) is that the total area of Mexico city is only 1,485 square kilometers (573 squared miles), which leads to a population density of 6000 people per squared kilometer (16000 residents per squared mile). Indeed, a very overcrowd city. 
+<!-- I born and raised in Mexico City. A city recognized as the [most populous territory in the Western Hemisphere](https://worldpopulationreview.com/world-cities/mexico-city-population), with a calculated population for 2021 of almost 22 million people.  -->
+<!-- The most impressive (and concerning fact) is that the total area of Mexico city is only 1,485 square kilometers (573 squared miles), which leads to a population density of 6000 people per squared kilometer (16000 residents per squared mile). Indeed, a very overcrowd city.  -->
 
-Against this, Mexico is considered according to the definition of the International Monetary Fund (IMF), as a [developing country](https://www.worlddata.info/developing-countries.php) because of its lower economic performance. A performance that reflects a very alarming poverty situation, where [almost half of the total population lives below the national poverty line](https://www.imf.org/en/Countries/MEX#countrydata). 
+<!-- Against this, Mexico is considered according to the definition of the International Monetary Fund (IMF), as a [developing country](https://www.worlddata.info/developing-countries.php) because of its lower economic performance. A performance that reflects a very alarming poverty situation, where [almost half of the total population lives below the national poverty line](https://www.imf.org/en/Countries/MEX#countrydata).  -->
 
-From an ecological point of view, this could be translated to a simple but horrendous fact, half of the total population (including people of all ages) are fighting every day to have access to the most basic resource, food. The other half is probably fighting over other resources such as clean water, shelter, education, health care, and social security. This brings a scenario where competition is key to survival in literal terms.
+<!-- From an ecological point of view, this could be translated to a simple but horrendous fact, half of the total population (including people of all ages) are fighting every day to have access to the most basic resource, food. The other half is probably fighting over other resources such as clean water, shelter, education, health care, and social security. This brings a scenario where competition is key to survival in literal terms. -->
 
-Mexican families are aware of this. They teach us to thrive under the most excruciating situations, to be the best in this deplorable environment. The saddest result of competition other than a fragmented society is habituation. 
+<!-- Mexican families are aware of this. They teach us to thrive under the most excruciating situations, to be the best in this deplorable environment. The saddest result of competition other than a fragmented society is habituation.  -->
 
-Every day a normal mexican walks besides a starving kid, or a young mother in despair, or a defeated father that lives in the street asking for some change. A couple of coins that could help them survive another day. A lot of people, including myself in the past, have the enough level of ignorance not only to judge them, or simply ignore their existence, but to reject them as human beings. Habituation, and lack of education is the worst adversary for my society. 
+<!-- Every day a normal mexican walks besides a starving kid, or a young mother in despair, or a defeated father that lives in the street asking for some change. A couple of coins that could help them survive another day. A lot of people, including myself in the past, have the enough level of ignorance not only to judge them, or simply ignore their existence, but to reject them as human beings. Habituation, and lack of education is the worst adversary for my society.  -->
 
-dont get me wrong, not everything is negativity, all these factors have giving us a lot of good characteristics as a society. 
+<!-- dont get me wrong, not everything is negativity, all these factors have giving us a lot of good characteristics as a society.  -->
 
-https://www.macrotrends.net/cities/21853/mexico-city/population
-https://worldpopulationreview.com/world-cities/mexico-city-population
-https://www.worlddata.info/developing-countries.php
-https://www.imf.org/en/Countries/MEX#countrydata
+<!-- https://www.macrotrends.net/cities/21853/mexico-city/population -->
+<!-- https://worldpopulationreview.com/world-cities/mexico-city-population -->
+<!-- https://www.worlddata.info/developing-countries.php -->
+<!-- https://www.imf.org/en/Countries/MEX#countrydata -->
 
-In our everyday lives as individuals in Mexico, the most competitive person is who gets the most resources. 
+<!-- In our everyday lives as individuals in Mexico, the most competitive person is who gets the most resources.  -->
 
-Unfortunately, due to this background, it took me several years to understand the difference between competition and collaboration. In the past I thought Mexico was one of the most collaborative countries, but I was very unaware of the actual situation. 
-
-
+<!-- Unfortunately, due to this background, it took me several years to understand the difference between competition and collaboration. In the past I thought Mexico was one of the most collaborative countries, but I was very unaware of the actual situation.  -->
 
 
 
 
 
 
-I consider free access to education, one of the three most valuable pillars for every individual, as long as health services and food. 
+
+
+<!-- I consider free access to education, one of the three most valuable pillars for every individual, as long as health services and food.  -->
 
 
 
 
 
 
-I realized of the importance of collaborating and setting the stages for progress. Although changing the situation of an entire country is not entirely in my hands, I do believe that the change comes from each of us. As I dedicate most of my grown-up live to academia, there has been  
+<!-- I realized of the importance of collaborating and setting the stages for progress. Although changing the situation of an entire country is not entirely in my hands, I do believe that the change comes from each of us. As I dedicate most of my grown-up live to academia, there has been   -->
 
-a result of this, I'm transferring all my work to an open-access frame. I'm creating this website not only to show you my academic merits and personal interests, but to make all these resources available for everyone. In here you will find [courses]() on various topics .
+<!-- a result of this, I'm transferring all my work to an open-access frame. I'm creating this website not only to show you my academic merits and personal interests, but to make all these resources available for everyone. In here you will find [courses]() on various topics . -->
 
-For me, this country represents not only an opportunity 
-And for me, the love of science comes in a form of curiosity 
+<!-- For me, this country represents not only an opportunity  -->
+<!-- And for me, the love of science comes in a form of curiosity  -->
 
-So yeah, I LOVE SCIENCE, just like you! 
+<!-- So yeah, I LOVE SCIENCE, just like you!  -->
 
 
 
