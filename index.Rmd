@@ -10,7 +10,7 @@ knit: (function(input_file, encoding) {
 
 Before anything, **THANK YOU!** Somehow, you are here, and I really appreciate the time you took to come and take a glance at my crazy life! Thanks to you, I keep dreaming! `r emo::ji("happy")`
 
-My name is **Alejandro Rodrigo**. I'm passionate about animal life and all the elements that surround it. If I had to pick one word to describe myself, I would always choose **CURIOSITY**.  
+My name is **Alejandro Rodrigo**. I'm passionate about animal life and all the elements that surround it. However, if I had to pick one word to describe myself, I would always choose **CURIOSITY**.  
 
 ![](docs\Images\Ale\Alejandro_Africam.jpg)
 Throughout this website, you will be able to know me better. Most of my work, hobbies, and passions are somewhere here. But to make things easier, the lines below show a summary of my academic career. 
