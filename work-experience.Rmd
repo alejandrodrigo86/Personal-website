@@ -1,0 +1,154 @@
+---
+title: "Work experience"
+---
+
+# Founding Partner, and Chief Operating and Commercial Officer **(September 2018 - Today)**.
+
+[Walden Modular Equipment](http://waldenme.com/){target="_blank"} — Guadalajara, Jalisco (Mexico).    
+
+![](docs\Images\Logo_Walden.png){width=50%} 
+
+
+**Main duties: **  
+
+1) Oversee day-to-day administrative and operational functions of the company.   
+2) Coordination of the development, production, marketing, and finance departments' actions.   
+3) Ensure the company complies with the local laws and regulations.   
+4) Manage and expand the client portfolio.   
+5) Supervision and improvement of customer service and satisfaction guidelines.   
+6) Control of future investments and purchases.  
+
+<!-- Integrate: My main activity is to oversee the development and commercial strategies of the company. I'm also responsible for supervising and achieving the business's annual budget, sales plans, and marketing strategies by following the corporate goals. In addition, I share responsibilities in preparation for profit, loss estimations, and budgets.  -->
+
+<!-- My work responsibilities with Walden include daily management operations in maximizing the company's efficiency at lowest cost, and to establish development strategies in reaching new markets. -->
+
+# Online Module Lecturer (August 2022) 
+
+**Lecture:** "The study of animal behavior."  
+**Course:** Certified Course on Behavioral Management of Wildlife under Human Care.  
+**Institution:** [Latin American Center for Studies in Biological Sciences and Animal Health](https://www.celebios.com/){target="_blank"} – Pachuca, Hidalgo (Mexico).  
+
+<!-- ![](docs\Files\Work-experience\Rodrigo_Celebios2020.png){width=100%} -->
+
+# Online Module Lecturer (July 2022) 
+
+**Lectures:** "S.P.I.D.E.R. Model" and "Evaluation of the environmental enrichment program"  
+**Course:** New Trends in the Environmental Enrichment of Wildlife.  
+**Institution:** [Veterinary and Ecology Institute](https://institutoveterinarioyecologia.lat/){target="_blank"} — Puebla, Puebla (Mexico). 
+
+![](docs\Files\Work-experience\Rodrigo_IVE2022.png){width=100%}
+
+# Online Module Lecturer (June 2021)
+
+**Lecture:** "Documentation and evaluation of zoo training programs".   
+**Course:** Ex-Situ Wildlife Behavior, Enrichment, and Training Principles Seminar.  
+**Institution:** [Zoological Foundation of Ecuador](https://quitozoo.org/){target="_blank"} — Quito, Ecuador (Ecuador).
+
+<!-- The course topics were:    -->
+
+<!-- - What behavior is and its importance.      -->
+<!-- - What an ethogram is and how to create it.        -->
+<!-- - What a zoo animal training program is.       -->
+<!-- - How to code behaviors (based on the Skinnerian three-term contingency: Stimuli-Response-Reinforce) using open-source software [(BORIS)](https://www.boris.unito.it/){target="_blank"}.        -->
+<!-- - How to evaluate and analyze data.      -->
+
+```{r Quito_2021, echo=FALSE, out.width='100%', out.height='1000px'}
+knitr::include_graphics("docs/Files/Presentations/Rodrigo_Quito_PPPresentation.pdf")
+```
+
+# Online Module Lecturer (January 2021)
+
+**Lecture:** "Evaluation of the environmental enrichment program."    
+**Course:** 1st Workshop on Environmental Enrichment in Wild Fauna (Theoretical – Online).   
+**Institution:** [Veterinary and Ecology Institute](https://institutoveterinarioyecologia.lat/){target="_blank"} – Puebla, Puebla (Mexico).
+
+<!-- The course topics were:       -->
+
+<!-- - What environmental enrichment is and its importance.     -->
+<!-- - Evaluating environmental enrichment programs and faced common problems.      -->
+<!-- - Designing experiments at the zoo.     -->
+<!-- - Using open-source software [(BORIS)](https://www.boris.unito.it/){target="_blank"} to code behaviors. -->
+<!-- - Analyzing data.    -->
+
+![](docs\Files\Work-experience\Rodrigo_IVE2021.png){width=100%}
+
+# Online Module Lecturer (July 2020) 
+
+**Lecture:** "The study of animal behavior."  
+**Course:** Certified Course on Behavioral Management of Wildlife under Human Care.  
+**Institution:** [Latin American Center for Studies in Biological Sciences and Animal Health](https://www.celebios.com/){target="_blank"} – Pachuca, Hidalgo (Mexico).  
+
+<!-- The course topics were:      -->
+
+<!-- - What behavior is and its importance.       -->
+<!-- - What an ethogram is and how to create it.      -->
+<!-- - Using open-source software [(BORIS)](https://www.boris.unito.it/){target="_blank"} to code behaviors.      -->
+<!-- - Data Analysis.           -->
+
+<!-- You can download the slides [here](docs/Files/Presentations/Rodrigo_Celebios.pdf){target="_blank"} -->
+
+![](docs\Files\Work-experience\Rodrigo_Celebios2020.png){width=100%}
+
+# Online Module Lecturer (July 2020) 
+
+**Lecture:** "Observation and analysis of animal behavior."  
+**Course:** Online course: Welfare in wild animals’ ex-situ. 
+**Institution:** [FaunaVet-Peru](https://www.celebios.com/){target="_blank"} – Lima, Perú (Perú).
+
+![](docs\Files\Work-experience\FaunaVet.jpg){width=100%}
+
+# Call Center Coach  (January 2016 - January 2017)
+
+[Beliveo](https://jobs.beliveo.com){target="_blank"} – Guadalajara, Jalisco (Mexico).  
+<!-- **Description:** My main activity was to supervise a team of 20 agents attending calls in English about bill inquiries.    -->
+
+<!-- The supervision included:        -->
+
+<!-- - Agent's daily training on emotional intelligence and problem-solving abilities to face real-life scenarios.     -->
+<!-- - Daily 1-on-1 meetings with agents.    -->
+<!-- - Developing and planning strategies to make the campaign more profitable.    -->
+
+# Veterinarian  (November 2012 – November 2013) 
+
+South Veterinary Clinic – Mexico City, CDMX (Mexico).
+
+<!-- **Description:** My main activity was to assess veterinary appointments.      -->
+
+<!-- The appointment included:   -->
+
+<!-- - A review of the patient's record.   -->
+<!-- - Physical examination.   -->
+<!-- - Explain the owner's differential diagnosis.   -->
+<!-- - Diagnostics and treatment.    -->
+<!-- - Explain the owner's future preventive therapies.    -->
+  
+# Animal Welfare Coordinator (July 2011 – April 2013)
+
+[Africam Safari](https://africamsafari.com/) – Puebla, Puebla (Mexico).
+
+**Main duties:**  
+
+1) Coordination of undergraduate students and volunteers involved in the environmental enrichment program.    
+2) Scheduling day-to-day activities of the program.  
+3) Overseeing electronic documentation and reports on environmental enrichment and animal training programs.  
+4) Review of safety protocols based on institutional guidelines to provide and improve the well-being of animals.    
+5) Provision of expertise about the biology of species to media and zoo guests.  
+
+![](docs\Images\Ale\Rodrigo_Africam.JPG){width=100%}
+
+<!-- **Description:** As the Animal Welfare Department coordinator, my primary responsibility was to monitor the environmental enrichment program. The program's goal was to promote and increase typical species behaviors (approximately 120 individuals of 45 species) by stimulating the cognitive skills of animals through problem-solving tasks. I also coordinate the volunteer program for the department.    -->
+
+<!-- The coordinator activities also included:     -->
+
+<!-- - Creation of an introductory lightning course on the topics: 		 -->
+
+<!--   + Observing, coding, and analyzing animal behavior.   -->
+<!--   + Environmental enrichment and its importance in zoos.   -->
+<!--   + The role of zoos in education and conservation.   -->
+<!--   + Security at the zoo.   -->
+
+<!-- - Monitor volunteers' daily activities.   -->
+<!-- - Recruit undergraduate students from veterinary sciences, biology, and psychology.   -->
+
+<!-- During this time, I was also head of the animal ambassador program. The Education for Conservation Department endorsed this program, and it included more than 18 different species.  -->
+

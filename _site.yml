@@ -3,18 +3,22 @@ navbar:
   left:
     - text: "Welcome"
       href: index.html
-    - text: "Research Statement" 
-      href: research-statement.html
+    # - text: "Research Statement" 
+    #   href: research-statement.html
     - text: "Publications"
       href: publications.html
-    - text: "Presentations"
-      href: presentations.html
+    # - text: "Presentations"
+    #   href: presentations.html
     - text: "Projects"
       href: projects.html 
-    - text: "Courses"
-      href: courses.html 
-    - text: "Resources"
-      href: resources.html 
+    # - text: "Courses"
+    #   href: courses.html 
+    # - text: "Resources"
+    #   href: resources.html 
+    - text: "Work experience"
+      href: work-experience.html
+    # - text: "Hobbies"
+    #   href: hobbies.html      
   right: 
     - icon: fa-envelope fa-lg
       href: mailto:<alejandro.rgutierrez@alumnos.udg.mx>

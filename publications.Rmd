@@ -1,0 +1,105 @@
+---
+title: "Publications"
+---
+
+# Published research 
+
+## Human-Animal Interactions (Original Research, English)
+
+[Harvie, H., **Rodrigo, A.**, Briggs, C., Thiessen, S., & Kelly, D. M. (2021). Does stress run through the leash? An examination of stress transmission between owners and dogs during a walk. Animal Cognition, 24(2), 239-250.  https://doi.org/10.1007/s10071-020-01460-6](https://link.springer.com/article/10.1007%2Fs10071-020-01460-6) 
+
+**Description of Contribution Role**  
+
+- **Software:** Programming and implementing R code to tide, order, manipulate, and analyze data.   
+- **Formal Analysis:** Application of linear regression and Generalized Linear Mixed Models (GLMM) analysis.   
+- **Investigation:** Assist in the data collection process.   
+- **Writing – original draft:** Preparation of the published work, explicitly writing the subsection Data analysis and the Results section of the initial draft.   
+- **Visualization:** Programming and implementing R code to visualize and present data.  
+
+## Qualitative Research (Journal Article, English)
+
+[Mejía, D., **Rodrigo, A.**, Avila-Chauvet, L., & Bonin, L. (2021). Drug use as a coping style to social isolation by COVID-19 pandemic and its effects on the adherence to safety guidelines in Mexico. Revista Internacional de Investigación en Adicciones, 7(1), 25-32. https://doi.org/10.28931/riiad.2021.1.04](http://riiad.org/index.php/riiad/article/view/riiad.2021.1.04)
+
+**Description of Contribution Role**  
+
+- **Conceptualization:** Assessment formulation to evaluate the effects of lockdown on drug use.     
+- **Methodology:** Design of the model using a cross-sectional design and a snowball sampling strategy.   
+- **Software:** Plan, design, and creation of online assessment using Google Forms.   
+- **Investigation:** In charge of collecting data using social media marketing to recruit participants across Mexico (n = 475).   
+- **Writing - Original Draft:** Translation of the manuscript from Spanish to English.  
+- **Funding Sources:** Consejo Nacional de Ciencia y Tecnologia (CONACYT) (Mexico).  
+
+```{r Mejia_2021, echo=FALSE, out.width='100%', out.height='1000px' }
+knitr::include_graphics("docs/Files/Publications/Mejia_2021.pdf")
+```
+
+# Preprint
+
+## Urban ecology (bioRxiv, English)  
+
+[**Rodrigo, A.**, Avila-Chauvet, L., & Buritica, J. (2021). Daily Patterns of Foraging and Aggressive Behaviors in Great-tailed Grackle (Quiscalus mexicanus) at an Urban Patch with Availability or Absence of Resources. bioRxiv. https://doi.org/10.1101/2021.06.14.448443](https://www.biorxiv.org/content/10.1101/2021.06.14.448443v1)
+
+**Description of Contribution Role**  
+
+- **Conceptualization:** Research question formulation about how Grackles allocate their behaviors around an urban food patch across 25 days to determine if the presence or absence of garbage collection changes the feeding strategy of the birds.   
+- **Methodology:** Design of a continuous sampling method (n = 194 hours of video).   
+- **Software:** Undergraduate training to code behavioral data using Open Source Software (OSS) BORIS. Data analysis using R and R Studio.   
+- **Formal Analysis:** Application of GLMM analysis.   
+- **Investigation:** In charge of data collection.   
+- **Resources:** Provision of instrumentation to conduct field recordings.   
+- **Writing – original draft:** Preparation and creation of the preprint manuscript.   
+- **Visualization:** Programming and implementing the R code to visualize and present data.   
+- **Supervision:** Oversight and leadership responsibility for the research activity planning and execution.  
+- **Project administration:** Management and coordination responsibility for the research activity planning and execution. 
+- **Funding Sources:** Consejo Nacional de Ciencia y Tecnologia (CONACYT) (Mexico).  
+
+```{r Rodrigo_2021, echo=FALSE, out.width='100%', out.height='1000px' }
+knitr::include_graphics("docs/Files/Publications/Rodrigo_2021.pdf")
+```
+
+# Thesis 
+
+## Environmental Enrichment (Master's Thesis - Spanish)
+
+[**Rodrigo, A.** (2017). Effects of environmental enrichment on the operant successive negative contrast. University of Guadalajara. https://doi.org/10.13140/RG.2.2.14830.92487](https://www.researchgate.net/publication/319291547_Efectos_del_enriquecimiento_ambiental_en_el_contraste_negativo_sucesivo_operante)
+
+**Description of Contribution Role**
+
+- **Conceptualization:** Formulated the research question regarding how different developmental experiences (i.e., housing conditions) affect the rat's intrinsic reward value (i.e., sugar water) during a devaluation operant task.
+- **Methodology:** Application of an A-B-A-B design.
+- **Software:** Designing and programming the experimental conditions in MED-PC IV. 
+- **Formal Analysis:** Application of statistical analysis using SPSS. 
+- **Investigation:** In charge of conducting animal research, including animal care and maintenance. Daily examination and testing of laboratory equipment and data collection. 
+- **Resources:** Creation and assembly of personalized design housing conditions for rodents. 
+- **Writing – original draft:** Development and creation of the thesis manuscript.
+- **Visualization:** Design and creation of graph visualization using SigmaPlot.
+- **Funding Sources:** Consejo Nacional de Ciencia y Tecnologia (CONACYT) (Mexico)
+
+```{r Rodrigo_2017, echo=FALSE, out.width='100%', out.height='1000px' }
+knitr::include_graphics("docs/Files/Thesis/Rodrigo_2017.pdf")
+```
+
+## Environmental Enrichment (Bachelor's project - Spanish) 
+
+[Gonzalez, I. & Rodrigo, A. (2010) Environmental enrichment and behavioral management program in Asian elephants (Elephas maximus) at Africam Safari Zoo. Autonomous Metropolitan University.](https://biblioteca.xoc.uam.mx/reporte_ss.html?id_documento=4643&fecha=20120917&archivo=0005067egmj.pdf&bibliografico=141852)
+
+**Description of Contribution Role**
+
+- **Conceptualization:** Formulated the research question regarding the response preference to six types of environmental enrichment in Asian elephants (Elephas maximus) in captivity. 
+- **Methodology:** 1/0 Ad-libitum sampling. 
+- **Investigation:** In charge of conducting animal observations at the zoo. Creation, development, and implementation of environmental enrichment for elephants. Daily elephant care and data collection. 
+- **Writing – original draft:** Development and writing the thesis manuscript. 
+This work was done in equal collaboration with Isis González.
+
+```{r Zenith_2010, echo=FALSE, out.width='100%', out.height='1000px' }
+knitr::include_graphics("docs/Files/Thesis/Zenith_2010.pdf")
+```
+
+# Working publications 
+
+## Spatial Navigation (Ph.D. Thesis, Spanish & English)
+
+**Rodrigo, A.**, Avila-Chauvet, L., Buriticá, J., Kelly, D.M. (In process) Computation of multiple landmarks by humans. 
+
+
+

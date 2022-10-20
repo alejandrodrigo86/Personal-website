@@ -6,14 +6,32 @@ knit: (function(input_file, encoding) {
   encoding=encoding,
   output_file=file.path(dirname(input_file), out_dir, 'index.html'))})
 ---
+
 <!-- This page should contain a brief version of your CCV, include only the important stuff, and add links to every specific area. -->
 
-Before anything, **THANK YOU!** Somehow, you are here, and I really appreciate the time you took to come and take a glance at my crazy life! Thanks to you, I keep dreaming! `r emo::ji("happy")`
+<!-- Check images permissions -->
 
-My name is **Alejandro Rodrigo**. I'm passionate about animal life and all the elements that surround it. However, if I had to pick one word to describe myself, I would always choose **CURIOSITY**.  
+Before anything, **THANK YOU!** Somehow, you are here, and I appreciate the time you took to come and take a glance at my life! `r emo::ji("happy")`
+
+My name is **Alejandro Rodrigo**. Through this website, you will be able to know me better. The goal is to share with you some of my [research](publications.html){target="_blank"}, [ongoing projects](projects.html){target="_blank"}, [work experience](work-experience.html){target="_blank"}, and [hobbies](under-construction.html){target="_blank"}. 
+
+In here I'm allowing myself to share a small part of my history and background with you. I will show you both, my successes, and failures, those that kept me going throughout my life. So, come out with me and embark on a journey where I'm constantly rediscovering my personal, academic, and research motives.  
+
+If you are in a hurry, click [here](#degrees) to find a summary of my academic career. You can also download my [resume](docs/Files/CV/Resume.pdf){target="_blank"}, [CV](docs/Files/CV/CV_ARod (Eng_Oct10-22).pdf){target="_blank"}, [research statement](){target="_blank"}<!--add-->, [equity, diversity and inclusion statement](){target="_blank"}<!--add-->, and [teaching statement](){target="_blank"}<!--add-->.   
 
 ![](docs\Images\Ale\Alejandro_Africam.jpg)
-Throughout this website, you will be able to know me better. Most of my work, hobbies, and passions are somewhere here. But to make things easier, the lines below show a summary of my academic career. 
+
+I was born on November 8th, 1986, in the traditional territory of the Mēxihcah (Mexica), the capital of the iconic Aztec Empire formerly known as Tenochtitlan and currently recognize as [Mexico City](https://en.wikipedia.org/wiki/Mexico_City){target="_blank"}. Mexico City is considered the most populous city in North America and is ranked as the [fifth most populated city in the world](https://worldpopulationreview.com/world-cities){target="_blank"}`r emo::ji("confounded")`, but most importantly, is the [taco capital of the world](https://en.wikipedia.org/wiki/Taco){target="_blank"}! `r emo::ji("delicious")`. 
+
+I'm currently living in [Vancouver, British Columbia](https://en.wikipedia.org/wiki/Vancouver){target="_blank"}. An astonishing city with a remarkable action plan to be considered ["the greenest city in the world"](https://vancouver.ca/files/cov/2021-greenest-city-action-plan-final-update.pdf){target="_blank"} and rated as one of the tops according to the “Green View Index” of [treepedia](http://senseable.mit.edu/treepedia){target="_blank"}. 
+
+I'm proud to enjoy the simple pleasures life has to offer and observing animals is one of them. I'm deeply passionate about [animal life](https://en.wikipedia.org/wiki/Animal){target="_blank"} and its behavior. That is why I choose to make a professional career out of it! Research provided me with the tools to study how animals behave, but moreover what is their role in the environment they live in and how they can impact our daily lives. 
+
+>I think [**CURIOSITY**](https://en.wikipedia.org/wiki/Curiosity){target="_blank"} is an essential part of my life as a researcher, but [**LOVE**](https://forms.gle/Piqo6bxWHEyCUYQk8){target="_blank"} motivates me to keep going. 
+
+My current research interests include Animal Behavior and Cognition, Animal Well-Being and Environmental Enrichment, Computer Science, Data Management and Statistics, and Urban Ecology and Evolution. These days I'm exploring more about Spatial Navigation, Learning and Memory, Sensation and Perception, and Fish and Invertebrate Behavior.  
+
+I decided to summarize my academic career below. Still, if you want to know more in detail, I invite you to click on the links scattered throughout the website. Please feel free to explore it! I hope you enjoy what I have prepared for you. Again, thanks for visiting!
 
 ```{r, echo=FALSE, message=FALSE, warning=FALSE, include= FALSE}
 URL_CAN <- sample(1:12, 1)
@@ -22,79 +40,54 @@ End_CAN <- "_CAN/"
 EgURLCAN = paste0(http, URL_CAN, End_CAN)
 ```
 
-I'm **currently finishing my Ph.D.** degree at the [Center of Behavioral Studies and Research](http://ceic.cucba.udg.mx/) of the [University of Guadalajara (UdG)](http://www.udg.mx/) under the direction of [Dr. Jonathan Buriticá](https://scholar.google.com.mx/citations?user=GsHQSMIAAAAJ&hl=en&oi=ao) and the supervision of [Dr. Debbie M. Kelly](http://home.cc.umanitoba.ca/~kellyd/index.html). My research focuses on **how humans select different strategies to locate a goal by computing the information of an array of visual cues**. Click [here](`r EgURLCAN`), if you want to check out the game [Dr. Laurent Avila Chauvet](http://lcsia.com/CVU.html) and I developed for the experiment, or [here](under-construction.html) if you want to see some of the results. <!--add a link to a preliminary presentation with results--> Soon, I will post the code of the game [here](under-construction.html)<!--Add a link to the developed/open source apps -->
+# [Degrees](#degrees)
 
-Additionally, nowadays, I'm the Chief Operating Officer, Commercial Officer, and Founding Partner of [Walden Modular Equipment](http://walden-me.com/). A company whose primary goal is develop personalized [laboratory equipment](http://walden-me.com/page1.html) used in behavioral studies. <!--add a link in Walden website to Walden presentations and place the link here-->
+## Ph.D. Candidate in Behavioral Sciences (Sep 2017 – to present)
 
-I got my [master's](http://ceic.cucba.udg.mx/Docencia/maestria-en-ciencia-del-comportamiento) from the same institution as my Ph.D. I have a Bachelor's degree in [Veterinary Sciences](http://www2.xoc.uam.mx/oferta-educativa/divisiones/cbs/licenciaturas-posgrados/pplic/mvz/) from the [Autonomous Metropolitan University (UAM-Xoc)](https://www.xoc.uam.mx/). While studying for my bachelor's, I did a one-year internship at the Animal Welfare Department at [Africam Safari zoo](https://africamsafari.com/) under the supervision of BVSc Gerardo Martinez del Castillo (check one of his most recent lectures on teaching mahouts positive reinforcement techniques [here](https://www.helpingelephants.org/7832-2/under-construction.html)).<!--add a link to Gerardo's work--> This internship turn to be one of the most enjoyable, educational and mind-blowing opportunities I ever experienced. This opportunity triggered my love and curiosity for living animals and their behavior. After I finished my degree, I worked as the coordinator of the Animal Welfare Department for a couple of years before I turned to academia. 
+I'm **currently finishing my Ph.D.** degree in [Experimental Analysis of Behavior](https://en.wikipedia.org/wiki/Experimental_analysis_of_behavior){target="_blank"} at the [Center of Studies and Research in Behavioral Sciences](http://ceic.cucba.udg.mx/){target="_blank"} of the [University of Guadalajara](https://www.udg.mx/en/welcome-university-guadalajara){target="_blank"} under the direction of [Dr. Jonathan Buriticá](https://scholar.google.com.mx/citations?user=GsHQSMIAAAAJ&hl=en&oi=ao){target="_blank"}. I'm a proud member of the [Learning and Comparative Cognition Laboratory](http://ceic.cucba.udg.mx/Investigacion/laboratorios?id=14){target="_blank"}.
+My thesis is co-supervised by [Dr. Debbie M. Kelly](https://scholar.google.com.mx/citations?user=uDyW650AAAAJ&hl=en&oi=sra){target="_blank"},
+head of the [Comparative Cognition and Cognitive Biology Laboratory](https://debbiekelly.ca/){target="_blank"} at the [University of Manitoba](https://umanitoba.ca/){target="_blank"}. My research focuses on **how the location of the goal in relation to visual cues in a virtual space affects the encoding of spatial information in humans**. Click [here](`r EgURLCAN`){target="_blank"} to check out the game [Dr. Laurent Avila Chauvet](http://lcsia.com/){target="_blank"} and I developed for the experiment. Soon, I will post the results [here](under-construction.html){target="_blank"} and the GameMaker code [here](under-construction.html).
 
-Today, my research interests orbit subjects including spatial navigation, animal welfare and environmental enrichment, urban ecology and evolution, fish and invertebrate behavior, sci-tech culture, stats and data management, open-source resources, a glance to plant communication and problem-solving, and finally, quantum biology. If you want to see my own little collection of resources on these topics, please click [here](resources.html).
+While studying for my Ph.D., I had the opportunity to collaborate and publish two super cool research papers and one preprint. If you want to know more about them, click [here](publications.html){target="_blank"}.
 
-During my academic career, I have had the opportunity to publish 2 papers that you can read [here](publications.html). Soon there will be more published papers. For a sneak-peak of my upcoming projects click [here](projects.html). 
 
- 
-# Research statement 
-<!--Insert research statement -->
-The most honest research statement I could thing is this: I'm in love of science, just like you!
-If you want to know more deeply how I came to this simple statement please click [here](research-statement.html)
+## Master´s in Behavioral Science (Jan 2014 – Jul 2017)
 
-# Actively working on:
+I got my [master's](http://ceic.cucba.udg.mx/Docencia/maestria-en-ciencia-del-comportamiento){target="_blank"} degree in Experimental Analysis of Behavior at the same institution as my Ph.D. Throughout my master's, I was part of the [Behavioral Processes and Animal Models Laboratory](http://ceic.cucba.udg.mx/Investigacion/laboratorios?id=5){target="_blank"} under the co-supervision of [Dr. Carlos Torres Ceja](https://scholar.google.es/citations?hl=es&user=StKMQD0AAAAJ&view_op=list_works&sortby=pubdate){target="_blank"} and [Dr. Carlos Javier Flores Aguirre](https://scholar.google.es/citations?user=si0XbfIAAAAJ&hl=es&oi=ao){target="_blank"}. My [master's thesis](docs/Files/Thesis/Rodrigo_2017.pdf){target="_blank"} evaluates the effects of [environmental enrichment](https://en.wikipedia.org/wiki/Environmental_enrichment){target="_blank"} in [Wistar rats](https://en.wikipedia.org/wiki/Laboratory_rat){target="_blank"} using a [behavioral contrast](https://en.wikipedia.org/wiki/Behavioral_contrast){target="_blank"} procedure. Additionally, during this time, I ran several other experiments focused on evaluating the effects of environmental enrichment on the [open field](https://en.wikipedia.org/wiki/Open_field_(animal_test)){target="_blank"}. Click [here](under-construction.html)<!-- add link to presentations -->{target="_blank"} to see more about it. 
 
-- Ph.D. Thesis, **Computation of multiple landmarks by humans: switching between strategies**   
+## Bachelor´s in Veterinary Science (May 2005 – Sep 2012)
 
-- Book chapter, **Contemporary theories and concepts in spatial cognition**  
-
-- Journal Article, **Daily Patterns of Foraging and Aggressive Behaviors in Great-tailed Grackle (_Quiscalus mexicanus_) at an Urban Patch with Availability or Absence of Resources**  
-
-Recently in the certified course on Behavioral Management of Wildlife under Human Care, I imparted the lecture  _The study of animal behavior_ at the [Latin American Center for Studies in Biological Sciences and Animal Health](https://www.celebios.com/manejo-conductual-fauna), Autonomous University of the State of Hidalgo.^a^
-
-<!--Finally, what you can do once you come to my faculty, meaning show what you do and what you might do in the future-->
-
-If I come to your lab, be prepared because I will bring a lot of curiosity, passion, motivation, energy, camaraderie, unity, smiles, a lot of happiness, a channel for freedom of speech, and as expected observational and analytic skills, competitive R programming skills, stats skills, ~~non-~~native writings skills but I compensate that with crazy ideas.     
-
-# Education & Research
-
-## Ph.D. candidate in Behavioral Sciences (Sep 2017 – to present)
-
-I'm a proud member of the [Learning and Comparative Cognition Laboratory](http://ceic.cucba.udg.mx/Investigacion/laboratorios?id=14) under [Dr. Jonathan Buriticá](https://scholar.google.com.mx/citations?user=GsHQSMIAAAAJ&hl=en&oi=ao) at the [Center of Behavioral Studies and Research](http://ceic.cucba.udg.mx/) (Guadalajara, Mexico).
-
-```{r URL, echo=FALSE, message=FALSE, warning=FALSE, include =FALSE}
-URL_CAN <- sample(1:12, 1)
-http <- "http://ae-gec.com/ARod/"
-End_CAN <- "_CAN/"
-EgURLCAN = paste0(http, URL_CAN, End_CAN)
-```
-
-My main research focuses on how multiple species of vertebrates orient themselves in space. My Ph.D. research aims to better understand how humans compute multiple cues in the environment to locate a goal and what factors are involved in selecting specific strategies (e.g., `r EgURLCAN`).
-
-I currently collaborate with [Dr. Debbie M. Kelly](https://scholar.google.com.mx/citations?user=uDyW650AAAAJ&hl=en&oi=sra), head of the [Comparative Cognition Laboratory](http://home.cc.umanitoba.ca/~kellyd/) at the [University of Manitoba](https://umanitoba.ca/). At present, we are exploring how pigeons (Columba livia) prioritize information in their environment, comparing how they weigh between geometrical (angular) and featural cues <!--add reference to tab projects-->.
-
-I'm also interested in the cognitive abilities of wild [Great Tailed-Grackles (Quiscalus mexicanus)](https://www.researchgate.net/publication/328890026_Time_Patterns_of_Foraging_Behaviors_in_Great-tailed_grackle_Quiscallus_mexicanus_at_an_Urban_Patch) <!--add reference to tab projects--> and their capacity to adapt to hazardous environments, such as cities.
-
-<!-- Add more projects-->
-
-## Masters in Behavioral Science (Jan 2014 – Jul 2017)
-
-Throughout my masters, I was part of the [Behavioral Processes and Animal Models Laboratory](http://ceic.cucba.udg.mx/Investigacion/laboratorios?id=11) under the co-supervision of [Dr. Carlos Torres Ceja](https://scholar.google.es/citations?hl=es&user=StKMQD0AAAAJ&view_op=list_works&sortby=pubdate) and [Dr. Carlos Javier Flores Aguirre](https://scholar.google.es/citations?user=si0XbfIAAAAJ&hl=es&oi=ao) at the [Center of Behavioral Studies and Research](http://ceic.cucba.udg.mx/) (Guadalajara, Mexico). During this time, my research focused on evaluating the effect of environmental enrichment on the performance of Wistar rats in multiple learning tasks, carried out in a diversity of mazes, such as the open field, the radial arm maze, and operant chambers.<!--add reference to tab projects-->
-
-## Bachelors in Veterinary Science (May 2005 – Sep 2012)
-
-During my bachelor's, I acquired the skills to manage and care for wildlife animals. I graduated from veterinary sciences with the project entitled ["Environmental enrichment and behavioral management program for Asian elephants (_Elephas maximus_) at Africam Safari zoo."](https://biblioteca.xoc.uam.mx/reporte_ss.html?id_documento=4643&fecha=20120917&archivo=0005067egmj.pdf&bibliografico=141852) This project was co-supervised by [Dr. José Antonio Martínez García](https://sia.xoc.uam.mx/sia/profesor_investigador/resp.php?index=26263) and [BVSc Gerardo Martínez del Castillo](https://www.linkedin.com/in/gerardo-martinez-del-castillo-121b88114/).
+I have a bachelor's degree in [Veterinary Sciences](https://en.wikipedia.org/wiki/Veterinarian){target="_blank"} from the [Autonomous Metropolitan University campus Xochimilco](https://www.xoc.uam.mx/){target="_blank"}. While studying, I did a one-year internship at the Animal Welfare Department at [Africam Safari Zoo](https://africamsafari.com/){target="_blank"} under the supervision of [BVSc Gerardo Martinez del Castillo](https://www.researchgate.net/scientific-contributions/Gerardo-Martinez-del-Castillo-2038202562){target="_blank"}. During this internship, I acquired some valuable skills to manage and care for wildlife animals. As a result of the internship, Isis Z. Gonzalez and I graduated with a [project](docs/Files/Thesis/Zenith_2010.pdf){target="_blank"} that evaluated the effects of environmental enrichment on Asian elephants. The project was directed under the co-supervision of [Dr. José Antonio Martínez García](https://sia.xoc.uam.mx/sia/profesor_investigador/resp.php?index=26263){target="_blank"} and BVSc Gerardo.  
 
 # Work Experience
 
-## Chief Operating and Commercial Officer at [Walden Modular Equipment](http://walden-me.com/) (Sep 2018 to present)
+## Chief Operating and Commercial Officer at [Walden Modular Equipment](http://waldenme.com/index.html){target="_blank"} (Sep 2018 to present)
 
-My work responsibilities with Walden include daily management operations in maximizing the company's efficiency at lowest cost, and to establish development strategies in reaching new markets.
+I work part-time as Chief Operating and Commercial Officer in [Walden Modular Equipment](http://waldenme.com/){target="_blank"}. A company whose primary goal is develop personalized [laboratory equipment](https://waldenme.com/product.html){target="_blank"} used in behavioral studies. 
+
+**Main duties: **  
+1) Oversee day-to-day administrative and operational functions of the company.   
+2) Coordination of the development, production, marketing, and finance departments' actions.   
+3) Ensure the company complies with the local laws and regulations.   
+4) Manage and expand the client portfolio.   
+5) Supervision and improvement of customer service and satisfaction guidelines.   
+6) Control of future investments and purchases.  
 
 ## Founding Partner of Walden Modular Equipment (Ago 2017 – Sep 2018)
 
-In collaboration with [Dr. Laurent Avila-Chauvet](http://lcsia.com/CVU.html) and the [Walden Modular Equipment team](http://walden-me.com/index.html), we started the ["Armando Ciencia"](https://www.zapopan.gob.mx/egresan-79-proyectos-de-la-sexta-generacion-del-programa-reto-zapopan/) project. This project aimed to build laboratory equipment capable of studying behavior through quickly assembled modules. The equipment manufactured was comparable to "lego for scientists." With this idea, we won an invitation to participate in the 6th generation of [Reto Zapopan](https://www.retozapopan.com.mx/) (a government agency that encourages innovative projects). By the end of 2018, the Armando Ciencia project evolved, and the Walden Modular Equipment company was founded [Walden Modular Equipment](http://walden-me.com/).
+In collaboration with [Dr. Laurent Avila-Chauvet](http://lcsia.com/CVU.html){target="_blank"} and the [Walden Modular Equipment team](http://waldenme.com/team.html){target="_blank"}, we started the ["Armando Ciencia"](https://www.zapopan.gob.mx/egresan-79-proyectos-de-la-sexta-generacion-del-programa-reto-zapopan/) project. This project aimed to build laboratory equipment capable of studying behavior through quickly assembled modules. The equipment manufactured was comparable to "lego for scientists." With this idea, we won an invitation to participate in the 6th generation of [Reto Zapopan](https://www.retozapopan.com.mx/){target="_blank"} (a government agency that encourages innovative projects){target="_blank"}. By the end of 2018, the Armando Ciencia project evolved, and we found the company [Walden Modular Equipment](http://waldenme.com/index.html){target="_blank"}.
 
 ## Coordinator of the Animal Welfare Department at [Africam Safari](https://africamsafari.com/) (July 2011 – April 2013)
 
-After graduating from veterinary sciences, I coordinated the animal welfare department at Africam Safari, paying particular attention to the environmental enrichment program. During this time, more than 45 species and approximately 120 individuals were involved with the program. One of the program's main objectives was to promote the development of cognitive skills through tasks related to problem-solving, and to increase typical species behaviors. Another essential activity of the department was coordinating the volunteer program, which included more than 30 undergraduate students from veterinary sciences, biology, and psychology.
-During this time, I was also head of the animal ambassador program. This program was endorsed by The Education Department for Conservation, and it included more than 18 different types of animal species. 
+After graduating from veterinary sciences, I coordinated the animal welfare department at Africam Safari, paying particular attention to the environmental enrichment program. During this time, more than 45 species and approximately 120 individuals were involved with the program. One of the program's main objectives was to promote the development of cognitive skills through tasks related to problem-solving, and to increase typical species behaviors. Another essential activity of the department was coordinating the volunteer program, which included more than 30 undergraduate students from veterinary sciences, biology, and psychology. During this time, I was also head of the Animal Ambassador Program. This program was endorsed by the Conservation Education Department, and it included more than 18 different species.
 
+**Main duties: **  
+1) Coordination of undergraduate students and volunteers involved in the environmental enrichment program.  
+2) Scheduling day-to-day activities of the program.  
+3) Overseeing electronic documentation and reports on environmental enrichment and animal training
+programs.  
+4) Review of safety protocols based on institutional guidelines to provide and improve the well-being
+of animals.  
+5) Provision of expertise about the biology of species to media and zoo guests.  
 
-<!-- http://lcsia.com/GFT.html -->
+But that's not it. There is always more! Please click on the links to see [research publications](publications.html){target="_blank"}, [recognitions and credentials earned](recognitions-credentials.html){target="_blank"}, [work experience](work-experience.html){target="_blank"}, [research funding history](){target="_blank"}, [ongoing projects](projects.html){target="_blank"}, [presentations](presentations.html){target="_blank"}, [research statement](){target="_blank"}, [equity, diversity and inclusion statement](){target="_blank"}, [teaching statement](){target="_blank"}. You also can check some of [my hobbies](under-construction.html){target="_blank"}, like [photography](under-construction.html){target="_blank"}, [cooking](under-construction.html){target="_blank"}, or my excentric [blog](under-construction.html){target="_blank"}.  <!-- is there more?? -->
