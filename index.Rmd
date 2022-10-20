@@ -7,9 +7,7 @@ knit: (function(input_file, encoding) {
   output_file=file.path(dirname(input_file), out_dir, 'index.html'))})
 ---
 
-<!-- This page should contain a brief version of your CCV, include only the important stuff, and add links to every specific area. -->
 
-<!-- Check images permissions -->
 
 Before anything, **THANK YOU!** Somehow, you are here, and I appreciate the time you took to come and take a glance at my life! `r emo::ji("happy")`
 
