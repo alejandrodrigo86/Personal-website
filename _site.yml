@@ -9,7 +9,7 @@ navbar:
       href: publications.html
     # - text: "Presentations"
     #   href: presentations.html
-    - text: "Projects"
+    - text: "Projects"    
       href: projects.html 
     # - text: "Courses"
     #   href: courses.html 
