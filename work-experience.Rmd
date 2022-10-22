@@ -1,5 +1,10 @@
 ---
 title: "Work experience"
+knit: (function(input_file, encoding) {
+  out_dir <- 'docs';
+  rmarkdown::render(input_file,
+  encoding=encoding,
+  output_file=file.path(dirname(input_file), out_dir, 'work-experience.html'))})
 ---
 
 # Founding Partner, and Chief Operating and Commercial Officer **(September 2018 - Today)**.
