@@ -1,5 +1,13 @@
 ---
 title: "Presentations"
+<<<<<<< HEAD
+knit: (function(input_file, encoding) {
+  out_dir <- 'docs';
+  rmarkdown::render(input_file,
+  encoding=encoding,
+  output_file=file.path(dirname(input_file), out_dir, 'presentations.html'))})
+=======
+>>>>>>> 4460158ffb35ad187b6e41c07b05519846824d30
 ---
 ```{r, echo=FALSE, message=FALSE, warning=FALSE, include =FALSE}
 library(knitr)    # For knitting document and include_graphics function
