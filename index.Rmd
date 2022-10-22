@@ -9,7 +9,7 @@ knit: (function(input_file, encoding) {
 
 Before anything, **THANK YOU!** Somehow, you are here, and I appreciate the time you took to come and take a glance at my life! `r emo::ji("happy")`
 
-My name is **Alejandro Rodrigo**. Through this website, you will be able to know me better. The goal is to share with you some of my [research](publications.html){target="_blank"}, [ongoing projects](projects.html){target="_blank"}, [work experience](work-experience.html){target="_blank"}, and [hobbies](under-construction.html){target="_blank"}. 
+My name is **Alejandro Rodrigo**. Through this website, you will be able to know me better. The goal is to share with you some of my [research](_site/publications.html){target="_blank"}, [ongoing projects](projects.html){target="_blank"}, [work experience](work-experience.html){target="_blank"}, and [hobbies](under-construction.html){target="_blank"}. 
 
 In here I'm allowing myself to share a small part of my history and background with you. I will show you both, my successes, and failures, those that kept me going throughout my life. So, come out with me and embark on a journey where I'm constantly rediscovering my personal, academic, and research motives.  
 
