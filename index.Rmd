@@ -13,7 +13,7 @@ My name is **Alejandro Rodrigo**. Through this website, you will be able to know
 
 In here I'm allowing myself to share a small part of my history and background with you. I will show you both, my successes, and failures, those that kept me going throughout my life. So, come out with me and embark on a journey where I'm constantly rediscovering my personal, academic, and research motives.  
 
-If you are in a hurry, click [here](#degrees) to find a summary of my academic career. You can also download my [resume](docs/Files/CV/Resume.pdf){target="_blank"}, [CV](docs/Files/CV/CV_ARod (Eng_Oct10-22).pdf){target="_blank"}, [research statement](){target="_blank"}<!--add-->, [equity, diversity and inclusion statement](){target="_blank"}<!--add-->, and [teaching statement](){target="_blank"}<!--add-->.   
+If you are in a hurry, click [here](#degrees) to find a summary of my academic career. You can also download my [resume](Web/docs/Files/CV/Resume.pdf){target="_blank"}, [CV](docs/Files/CV/CV_ARod (Eng_Oct10-22).pdf){target="_blank"}, [research statement](){target="_blank"}<!--add-->, [equity, diversity and inclusion statement](){target="_blank"}<!--add-->, and [teaching statement](){target="_blank"}<!--add-->.   
 
 ![](docs\Images\Ale\Alejandro_Africam.jpg)
 
